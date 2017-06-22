@@ -6,6 +6,7 @@
   "author"       : "CyrilPatrice",
   "dependencies" : {
     "google-play-scraper"	:	"latest",
-		"memory-cache"				:	"latest"
+		"memory-cache"				:	"latest",
+		"express"							:	"latest"
   }
 }
