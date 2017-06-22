@@ -1,0 +1,8 @@
+{
+  "name": "Version updater Backend",
+  "description": "A backend Node.js app caching play store apps description",
+  "repository": "https://github.com/PagesJaunesMobile/tools-versionScrapper",
+  "logo": "https://cdn.rawgit.com/PagesJaunesMobile/tools-versionScrapper/master/public/logo.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
